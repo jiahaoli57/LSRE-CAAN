@@ -24,7 +24,7 @@ Not applicable.
 ## Citations
 Please cite our work if you find our code/paper is useful to your work.
 ```bibtex
-@misc{li2023online,
+@article{li2023online,
     title     = {Online portfolio management via deep reinforcement learning with high-frequency data},
     author    = {Li, Jiahao and Zhang, Yong and Yang, Xingyu and Chen, Liangwei},
     journal   = {Information Processing and Management},
