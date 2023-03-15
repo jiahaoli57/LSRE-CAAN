@@ -21,6 +21,9 @@ Recently, models that based on Transformer (Vaswani et al., 2017) have yielded s
 ### Acknowledgement
 Not applicable.
 
+### News
+* [区块链前沿] [Online portfolio management via deep reinforcement learning with high-frequency data](https://njublockchain.com/wos/view/3684141017)
+
 ## Citations
 Please cite our work if you find our code/paper is useful to your work.
 ```bibtex
