@@ -36,8 +36,7 @@ Please cite our work if you find our code/paper is useful to your work.
     volume    = {60},
     number    = {3},
     pages     = {103247},
-    year      = {2023},
-    doi       = {https://doi.org/10.1016/j.ipm.2022.103247}
+    year      = {2023}
 }
 ```
  
