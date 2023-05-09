@@ -18,7 +18,11 @@ Recently, models that based on Transformer (Vaswani et al., 2017) have yielded s
 * ***School of Management, Guangdong University of Technology***
 
 ### Acknowledgement
-Not applicable.
+This project would not have been finished without using the codes from the following open source projects:
+
+* [Online Portfolio Selection toolbox](https://github.com/OLPS/OLPS)
+* [Implementation of Perceiver by lucidrains](https://github.com/lucidrains/perceiver-pytorch)
+* [Implementation of AlphaStock by 21335732529sky](https://github.com/21335732529sky/alpha_stock)
 
 ### News
 * [区块链前沿] [Online portfolio management via deep reinforcement learning with high-frequency data](https://njublockchain.com/wos/view/3684141017)
