@@ -20,7 +20,6 @@ Recently, models that based on Transformer (Vaswani et al., 2017) have yielded s
 ### Acknowledgement
 This project would not have been finished without using the codes from the following open source projects:
 
-* [Online Portfolio Selection toolbox](https://github.com/OLPS/OLPS)
 * [Implementation of Perceiver by lucidrains](https://github.com/lucidrains/perceiver-pytorch)
 * [Implementation of AlphaStock by 21335732529sky](https://github.com/21335732529sky/alpha_stock)
 
