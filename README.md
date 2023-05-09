@@ -29,7 +29,7 @@ Please consider citing our work if you find our code/paper is useful to your wor
 @article{li2023online,
     title     = {Online portfolio management via deep reinforcement learning with high-frequency data},
     author    = {Li, Jiahao and Zhang, Yong and Yang, Xingyu and Chen, Liangwei},
-    journal   = {Information Processing and Management},
+    journal   = {Information Processing \& Management},
     volume    = {60},
     number    = {3},
     pages     = {103247},
