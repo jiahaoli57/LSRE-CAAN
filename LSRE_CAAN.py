@@ -254,4 +254,4 @@ class LSRE_CAAN(nn.Module):
         else:
             portfolio = F.softmax(final_scores, dim=0)
 
-        return portfolio  # ^_^ wo bu ji de da xiao le, ying gai shi [num_assets] huo zhe [num_assets, 1]
+        return portfolio  # with size [num_assets] or [num_assets, 1]
